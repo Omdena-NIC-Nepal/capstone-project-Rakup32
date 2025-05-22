@@ -34,7 +34,7 @@ A Streamlit-based web application for analyzing and visualizing climate data fro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nepal-climate-analysis.git
+git clone https://github.com/rakup32/nepal-climate-analysis.git
 cd nepal-climate-analysis
 ```
 
